@@ -2,6 +2,8 @@ This little utility makes it far far easier to close windows in microsoft window
 Instead of searching for the X [top right] or right clicking on the drop down [top left], now you just right click on the title bar.
 Try it--you'll never want to go back.
 
+To run: execute ./TrayIcon/TrayIcon/Release/TrayIcon.exe
+
 Related products: Nifty Windows (allows close by right and middle click--a bit more kludgey, I'll admit).
 
 Known bugs:  see the source for a somewhat lengthy wish list.
