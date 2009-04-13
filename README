@@ -1,0 +1,12 @@
+This little utility makes it far far easier to close windows in microsoft windows.
+Instead of searching for the X [top right] or right clicking on the drop down [top left], now you just right click on the title bar.
+Try it--you'll never want to go back.
+
+Related products: Nifty Windows (allows close by right and middle click--a bit more kludgey, I'll admit).
+
+Known bugs:  see the source for a somewhat lengthy wish list.
+
+Collaboration welcome! (currently compiled with Visual Studio 2008...I hope--if not then download from the codeproject link below and substitute its source for mine).
+
+This code is mostly a copy of that found in http://www.codeproject.com/KB/system/MinimizedAnyWindowToTray.aspx
+but modified to do the described.

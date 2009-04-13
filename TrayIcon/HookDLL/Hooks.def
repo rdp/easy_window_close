@@ -1,0 +1,6 @@
+LIBRARY		HookDLL.dll
+EXPORTS
+	InstallHook				@1
+	UnInstallHook			@2
+	InitMenuHookProc		@3
+	MenuCommandHookProc		@4

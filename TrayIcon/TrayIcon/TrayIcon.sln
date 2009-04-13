@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookDLL", "..\HookDLL\HookDLL.vcproj", "{CC472BC9-718F-4C19-9DA2-EB0C9778F7AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrayIcon", "TrayIcon.vcproj", "{ECB41C30-4D01-42B7-AF77-BA315395665F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC472BC9-718F-4C19-9DA2-EB0C9778F7AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC472BC9-718F-4C19-9DA2-EB0C9778F7AF}.Debug|Win32.Build.0 = Debug|Win32
+		{CC472BC9-718F-4C19-9DA2-EB0C9778F7AF}.Release|Win32.ActiveCfg = Release|Win32
+		{CC472BC9-718F-4C19-9DA2-EB0C9778F7AF}.Release|Win32.Build.0 = Release|Win32
+		{ECB41C30-4D01-42B7-AF77-BA315395665F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECB41C30-4D01-42B7-AF77-BA315395665F}.Debug|Win32.Build.0 = Debug|Win32
+		{ECB41C30-4D01-42B7-AF77-BA315395665F}.Release|Win32.ActiveCfg = Release|Win32
+		{ECB41C30-4D01-42B7-AF77-BA315395665F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
